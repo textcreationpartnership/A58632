@@ -1,0 +1,524 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A collection of some of the murthers and massacres committed on the Irish in Ireland since the 23d of October 1641 with some observations and falsifications on a late printed abstract of murthers said to be committed by the Irish / new published by R.S.</title>
+            <author>R. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58632</idno>
+            <idno type="STC">Wing S126</idno>
+            <idno type="STC">ESTC R32069</idno>
+            <idno type="EEBO-CITATION">12318616</idno>
+            <idno type="OCLC">ocm 12318616</idno>
+            <idno type="VID">59421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58632)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59421)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1026:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A collection of some of the murthers and massacres committed on the Irish in Ireland since the 23d of October 1641 with some observations and falsifications on a late printed abstract of murthers said to be committed by the Irish / new published by R.S.</title>
+                  <author>R. S.</author>
+               </titleStmt>
+               <extent>27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 27.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59421:1" rendition="simple:additions"/>
+            <pb facs="tcp:59421:1" rendition="simple:additions"/>
+            <p>A COLLECTION Of Some of the Murthers and Maſ<g ref="char:EOLhyphen"/>ſacres committed on the Iriſh IN IRELAND Since the 23<hi>
+                  <hi rend="sup">d</hi>.</hi> of <hi>October</hi> 1641.</p>
+            <p>WITH Some Obſervations and Falſifications on a late Printed Abſtract OF MURTHERS Said to be committed by the <hi>Iriſh.</hi>
+            </p>
+            <p>
+               <hi>Now Publiſhed by</hi> R. S.</p>
+            <p>
+               <hi>LONDON</hi> Printed for the Author 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:59421:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:59421:2"/>
+            <head>
+               <hi>A COLLECTION Of ſome of the Murthers and Maſacres commit<g ref="char:EOLhyphen"/>ted on the Iriſh in</hi> Ireland, <hi>ſince the</hi> 23th. <hi>of</hi> October 1641.</head>
+            <p>HAving with ſad thoughts reflected on the continuance of my ſufferings, amidſt the many joyes wherewith my fellow Souldiers with whom I ſerved my Apprentiſhip, under the Royal Banner in this Country, nay, all my fellow Subjects of all ſorts, and ſects, are du<g ref="char:EOLhyphen"/>ly ſolaced, I found thereby my afflictions became leſs tollerable then before the Royal Authority was eſtabliſhed, ſo as I could not containe my ſelfe within my wonted bonds of patience, whithout ſeek<g ref="char:EOLhyphen"/>ing after the cauſes of their joyes and my miſeries,
+<pb n="4" facs="tcp:59421:3"/>
+and examining in my own thoughts wherefore I ſhould not pertake of the happineſs of ſuch, with whom I did undergo many hardſhips for the Royal Cauſe, or why ſuch who either as primary cauſes or imediate actors imbrued their hands in the Royal blood, they who thought to pluck up by the roots Mo<g ref="char:EOLhyphen"/>narchy; Hirarchy, and the fundamentals of all Chriſtian Piety, they who betrayed their truſts and proſtituted for money, or other private advan<g ref="char:EOLhyphen"/>tage the Royal Intreſt, ſhould now live in the condition of free borne Subjects, enjoy their E<g ref="char:EOLhyphen"/>ſtates and Fortunes, ſome of them beare Offices, and promotions, and I who beſtowed the Flowers of my youth, nay, all my life, ſince I could write man (without the leaſt Appoſtacy) in the Royal ſervice, and ſought out all opportunities not only in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as long as any held up for the King, but in all the parts of <hi>Ireland</hi> even in the utmoſt confines thereof to ſupport the Royal Authority, ſhould now after my long ſufferings under the uſurped power, be (very neer two years after his Majeſties happy Reſtitution) ſtill kept out of my Eſtate and lively<g ref="char:EOLhyphen"/>hood, and deprived of my Birthright and liberty of a Subject. They who rob'd me of theſe pretious things alwaies told me, that my Loyalty to my
+<pb n="5" facs="tcp:59421:3"/>
+King was the cauſe thereof, and I was well plea<g ref="char:EOLhyphen"/>ſed to loſe all I had, and my life alſo for that cauſe, and now contrary to all principles of Phi<g ref="char:EOLhyphen"/>loſophy that cauſe ceaſing, the effects in me ſtill holds.</p>
+            <p>Having thus with perplex't thoughts ruinated upon the ſourſe of my miſeries, and finding no natu<g ref="char:EOLhyphen"/>ral cauſe thereof ariſing from my deportment du<g ref="char:EOLhyphen"/>ring the late Wars, I at length bethought that the ſame may proceed from ſome conſtillation over that unhappy Country <hi>Ireland,</hi> wherein I was born; and that although I was not involved in the actings of my Country men, yet I may by influence of that conſtillation be rendred Subject to their misfortunes and this made me ſome what curious in the ſearch of the ground and progreſs of the Rebellion in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> (which being very odious to me, all my know<g ref="char:EOLhyphen"/>ledge therof being deceived, at ſecond hand from the Gaſſets and Pamphlets printed at <hi>London,</hi> which ordinarily during my aboad in the Kings Garriſon of <hi>Oxford,</hi> and elſewhere, came thither fraught with many execreable &amp; haynous Murthers ſaid to be committed by my Country men, I had much diffi<g ref="char:EOLhyphen"/>culty to reconcile my ſelfe ſo far to them, as to ad<g ref="char:EOLhyphen"/>mit any other information, untill by chance I ligh<g ref="char:EOLhyphen"/>ted
+<pb n="6" facs="tcp:59421:4"/>
+on a printed Paper, intitled a Narrative <hi>&amp;c.</hi> In which Narrative is ſet forth in ſeveral inſtan<g ref="char:EOLhyphen"/>ces the odiouſneſs of that Rebellion and of the bar<g ref="char:EOLhyphen"/>barous actings of the Contrivers thereof in the eyes of all the Sober Catholiques of <hi>Ireland,</hi> their votes and offers for ſuppreſſing thereof in its firſt riſe, and the Artificies uſed and provocations for involving them therein, in it I found my firſt light of the aſſertions of the ſaid Catholiques in their own behalfes touching that Rebellion, and it brought to ſome ſolitude; for better and further information in thoſe matters, which I ſince had from diſcourſes of ſeveral diſintereſſed perſons as<g ref="char:EOLhyphen"/>well Proteſtants as Catholiques, and being thus informed, it was my hap to light of a Pamphlet lately printed under the Title of an Abſtract of ſome few of theſe Barbarous cruel Maſacres and Murthers of the Proteſtants and the Engliſh in ſome parts of <hi>Ireland,</hi> committed ſince the 23 of <hi>October</hi> 1641. upon peruſal of which Abſtract I was ſatisfied that the deſign of Printing the ſame in a time when the ſetlement of that King<g ref="char:EOLhyphen"/>dome was under his Majeſties conſideration, was for no other end then to render all the Catholiques there (in all good mens opinions) blaſted and unfit to partake of his Majeſties grace and favour.
+<pb n="7" facs="tcp:59421:4"/>
+The notions I had by my ſaid former communicati<g ref="char:EOLhyphen"/>on touching theſe matters did enable me to confute ſeveral particulars of that Pamphlet, and I found my ſelf as a perſon ſuffering under the Calumny of my Country obliged to retort thoſe Calumny's, and to vindicate the honeſt party of my Country men, in what I may without which (as I am verily perſwa<g ref="char:EOLhyphen"/>ded) I muſt ſtill continue under my wonted afflicti<g ref="char:EOLhyphen"/>ons. And this occaſioned my publiſhing of the en<g ref="char:EOLhyphen"/>ſuing Collection, wherein the Reader may be aſſu<g ref="char:EOLhyphen"/>red, that I have not taken preſident from theſe ſcur<g ref="char:EOLhyphen"/>rilous and lying Pamphlets, nor inſerted any thing herein, but what is an undenyable truth to be juſti<g ref="char:EOLhyphen"/>fied by many thouſands, for it is publiquely known that <hi>Cromwels</hi> pretended High Court of Juſtice paſt through all the parts of <hi>Ireland,</hi> and pickt out of the people all ſuch as could be in any manner tain<g ref="char:EOLhyphen"/>ted with the ſpilling of Engliſh blood, with that rigour as may be eſteemed rather <hi>ſumum jus</hi> then moderate Juſtice, that upon tryals in the ſaid Court and examinations taken in order to thoſe tryals, there were but a few of the many thouſands ſaid to be murthered, in printed Pamphlets, found to be real, and it is well known that there were not ſo many Proteſtans of the Britiſh Nation, living in
+<pb n="8" facs="tcp:59421:5"/>
+               <hi>Ireland</hi> in the beginning of that Rebellion, as have been printed, to be Murthered, alſo it is undeni<g ref="char:EOLhyphen"/>able that the firſt Maſſacres committed in the time of the ſaid Rebellion (which occaſioned all the miſ<g ref="char:EOLhyphen"/>chiefs thereafter happening, was as done upon the Iriſh, and the ſeveral Murthes perpetrated in cold blood, upon them did twenty fould exceed theſe which were committed on the Engliſh, and that they who took in hand the publiſhing of the mur<g ref="char:EOLhyphen"/>thers done upon the Engliſh, did raiſe the ſame to an immenſe number, and painted the hardneſs therof with ſuch barbarous circumſtances, thereby to win compaſſionand ſuccour from <hi>England,</hi> and to ſtain the unblemiſh able honour of his Sacred Majeſty with ſome reflections from that Rebellion, as hath been manifeſted upon the tryals of ſeveral perſons in the ſaid High Courts, and at the tryal of Qua<g ref="char:EOLhyphen"/>lifications in <hi>Aſhloane</hi> where the book, called the black book, being a Collection of the examinations taken in the year 1641. of Murthers ſaid to be then committed, being produced, the ſame was ſo falſified in moſt paticulars thereof, aſwel by the witneſſes pretended to be fondly ſworn, as alſo by ſome of the perſons then and now living, who were in the ſaid book ſworn to be Murthered, that the ſaid book was, for ſhame laid aſide as no evidence,
+<pb n="9" facs="tcp:59421:5"/>
+and ſeveral other perſons who have taken examina<g ref="char:EOLhyphen"/>tions touching murthers, have ſeveral times ſince acknowledged the falſity of the matters publiſhed by them, as being had by the falſe information of others, who in the hurry of theſe times and their own frights were ſo tranſported as they ſwore all their neighbours whom they left behind were all mur<g ref="char:EOLunhyphen"/>thered, when all or moſt of them were afterwards found to be living, and yet all theſe miſtakes al<g ref="char:EOLhyphen"/>though well known, remaine yet unrectified. The truth is, that all ſober and eſtated perſons of the Iriſh Nation did deſire nothing more then the pu<g ref="char:EOLhyphen"/>niſhment of thoſe murthers, and it was at their hum<g ref="char:EOLhyphen"/>ble propoſals that all murthers were excepted out of the Articles of peace; they alſo deſired lately (by their Agents) to except all murthers out of the Act of Indempnity, and ſtill deſire the ſame, and think that until the blood maliciouſly ſpilt on both ſides, ſhall be expiated by condign inflictions of puniſh<g ref="char:EOLhyphen"/>ment upon the Murtherers, Gods wrath will hardly be averted from that Land, and although the Iriſh have been in the higheſt degree aſperſed by the ma<g ref="char:EOLhyphen"/>ny brutes raiſed of thoſe Murthers, yet the honeſt party of them found themſelves ſo unconcerned ther<g ref="char:EOLhyphen"/>in, otherwiſe then that they were born in a Country
+<pb n="10" facs="tcp:59421:6"/>
+where thoſe hainous facts were committed, that they have not until this time writ a ſylable in vindica<g ref="char:EOLhyphen"/>tion of themſelves, neither would I now if I had not been by my ſufferings with them forced into it, and finding that a bare defence without ſome retort upon the offenders would not be deemed a good de<g ref="char:EOLhyphen"/>fence, I found a neceſſity immediatly to lay open the falſhood of the ſaid printed Pamphlet, and to pu<g ref="char:EOLhyphen"/>bliſh a Collection of ſome of the many Murthers committed on the Iriſh hereafter; enſuing, cir<g ref="char:EOLhyphen"/>cumſtanced with time, place and perſons with as much certainty, as upon my beſt ſcrutiny here in <hi>Eng.</hi> I would inform my ſelf. Which Circumſtan<g ref="char:EOLhyphen"/>ces I find for the moſt part omitted in the abſtract, charging the Iriſh with Murthers. And cer<g ref="char:EOLhyphen"/>tainly were thoſe Murthers true which are accom<g ref="char:EOLhyphen"/>panied with thoſe horrid Circumſtances mentioned in the ſaid abſtract, either the Murthes or murtherers names in all likelyhood would be known and ſet forth with ſome other marks of truth for the more beliefe. But I find the ſaid Abſtract is much miſtaken and falſe as hereafter expreſſed, by which the impartial reader may judge of the reſt, as of the verity of this Collection, publiſhed to unde<g ref="char:EOLhyphen"/>ceive the miſled by the ſaid Abſtract and former
+<pb n="11" facs="tcp:59421:6"/>
+Pamphlets ſet forth at firſt and now revived by thoſe who always adheared to the uſurped power. Wherein is obſervable that in the firſt and ſecond page of that ſcandalous Abſtract, is ſaid that at <hi>Kilkeny</hi> in the year 1642. many Proteſtants were Murthered in a barbarous manner, and at <hi>Grag</hi> in the County of <hi>Kilkeny</hi> ſeventy Proteſtants were likewiſe murthered with moſt horrid circumſtances, whereas there was at <hi>Kilkeny</hi> but one woman ſmo<g ref="char:EOLhyphen"/>thered in a tumult in 1641. and the late Lord of <hi>Mount Garret</hi> coming to appeaſe it, found one <hi>Cantwel</hi> active therein, and ſhot him dead, and wounded others. As to <hi>Grag</hi> aforeſaid there was not any murthered there during the War, the truth of both which is ſo confidently averred by perſons of honour and quality, as that they are content to allow the whole Abſtract for truth, if any prote<g ref="char:EOLhyphen"/>ſtant was murthered in either of thoſe places other then the woman aforeſaid. Other falſifications will be found in their proper places in the Pro<g ref="char:EOLhyphen"/>vince of <hi>Connaght</hi> which might have been done in moſt particularls, but that I would not retard the publiſhing of this at preſent in expectation of far<g ref="char:EOLhyphen"/>ther information out of <hi>Ireland.</hi>
+            </p>
+            <closer>
+               <signed>R. S.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="12" facs="tcp:59421:7"/>
+            <p>AS for ſuch who in the Uſurpers time have been unjuſtly executed by the pretended High Courts of Iuſtice, are omitted here for brevitys ſake only a few inſtances, viz. The Lord <hi>Viſcount</hi> of <hi>Mayo</hi> under colour of being guilty of the murthers committed at, <hi>Shruell</hi> was put to to death by a Court confiſtng of eleaven officers, amongſt whom there was not one Lawyer, whereof five did acquit him when the ſaid murthers was committed, the ſaid Lord was a Proteſtant, had no command amongſt the Iriſh, and ur<g ref="char:EOLhyphen"/>ged at his Tryal by good proofs, that he eſcaped the Mur<g ref="char:EOLhyphen"/>therers with his life by great providence. Col. <hi>Bagenal</hi> in 1652. a very loyal Gentleman, executed at <hi>Kilkeny</hi> for ſigning a Warrant to hang one <hi>John Stone</hi> a known ſpie, the ſaid Col. being then left for a publique hoſtage, for performance of Articles concluded there and not diſcharged before execution, Mr. <hi>Edward Butler</hi> ſon to the Lord of <hi>Mont Garret</hi> having notice ſent him that ſome Proteſtants were a hanging at <hi>Ballaragad,</hi> came with all haſt to preſerve their lives, which he did of ſuch as he o<g ref="char:EOLhyphen"/>vertook alive, yet was condemned and executed becauſe he came not time enough to ſave two of them that were hanged upon a ſuſpicion he might ſave them as well as the reſt; how unjuſtly the Lady <hi>Roch</hi> was put to death for murthering an unknown perſon, is notoriouſly known; And Mrs. <hi>Fitz. Pa<g ref="char:EOLhyphen"/>trick</hi> was executed on the teſtimony of one woman who af<g ref="char:EOLhyphen"/>terwards did acknowledge ſhe was ſet on by Col. <hi>Axtel,</hi> and had a ſum of money from him for ſuch proſecution.</p>
+         </div>
+         <div type="text">
+            <pb n="1" facs="tcp:59421:7"/>
+            <head>
+               <hi>A Collection of ſome of the Maſsacres and Murthers committed on the Iriſh in</hi> Ireland, <hi>ſince the</hi> 23 <hi>of</hi> October 1641.</head>
+            <div type="county">
+               <head>County of Antrim.</head>
+               <p>ABout the beginning of <hi>November,</hi> the En<g ref="char:EOLhyphen"/>gliſh <note place="margin">1641.</note> and Scots forces in <hi>Cnockfergus</hi> and murthered in one night, all the Inhabitants of the territory of Iſland Mr. <hi>Gee</hi> to the number of above 3000 men women and children, all innocent perſons, in a time when none of the Catholikes of that County were in Armes or Rebellion. Note that this was the firſt Maſſacre committed in <hi>Ireland</hi> of either ſide.</p>
+               <p>1641. Mr. <hi>Mae Naghten</hi> having built a ſmall fortreſs in the ſaid County to preſerve himſelf and his followers from outrages, until he had underſtood what the cauſe of the then rebellion was. As ſoon as Col. <hi>Campbel</hi> came neer with part of the Army, he ſent to let him know that he would come to him with his party, which he did, and they were next day murthered to the num<g ref="char:EOLhyphen"/>ber of 80. by Sir <hi>Iohn Clothworthy</hi> now Lord <hi>Maſſerin</hi> his Soul<g ref="char:EOLhyphen"/>diers.</p>
+               <p>About the ſame time 100 poor women and children were murthered in one night, at a place called <hi>Balliaghiun</hi> by direction of the Engliſh and Scots Officers commanding in that County.</p>
+            </div>
+            <div type="county">
+               <pb n="2" facs="tcp:59421:8"/>
+               <head>County of Derry.</head>
+               <p>1641. Some 300 men women and children of the Iriſh, ha<g ref="char:EOLhyphen"/>ving freely come under the protection of the Garriſon of <hi>Lon<g ref="char:EOLhyphen"/>don Derry,</hi> were ſtript plundred and killed by the ſaid Garriſon.</p>
+               <p>1644. Mr. <hi>Morris,</hi> Mc. <hi>Daniel Natural</hi> ſon to the late Earle of <hi>Antrins,</hi> was hanged at <hi>Coolrane</hi> by the Governours orders, notwithſtanding he had Col. <hi>Michael Iones</hi> his paſs.</p>
+            </div>
+            <div type="county">
+               <head>County of Down.</head>
+               <p>1641. The Burgeſſes and Inhabitants of the town of <hi>New<g ref="char:EOLhyphen"/>ry,</hi> meeting the Engliſh Army on their march to beſiedge the Caſtle of the ſaid Town, were received into protection, and af<g ref="char:EOLhyphen"/>ter quarter given to the Garriſon of the ſaid Caſtle, the ſaid In<g ref="char:EOLhyphen"/>habitants and the Souldiers of the ſaid Garriſon, to the number of 500 and upwards, men, women and children were brought on the Bridge of the <hi>Newry</hi> and thrown into the River, and ſuch of them as indeavoured to eſcape by ſwimming were mur<g ref="char:EOLhyphen"/>thered</p>
+            </div>
+            <div type="county">
+               <head>County of Donegal.</head>
+               <p>1641. About the 20 of <hi>Nov.</hi> Sir <hi>William Steward</hi> comman<g ref="char:EOLhyphen"/>ded the Gentry and Inhabitants of that County to joyn with his Forces in oppoſition to the Rebels, and accordingly they came to the place appointed where Captain <hi>Cunningham</hi> with a party of the ſaid Sir <hi>Williams</hi> Regiment, under pretence of incorpo<g ref="char:EOLhyphen"/>rating with them, fell upon the Inhabitants with his armed Soul<g ref="char:EOLhyphen"/>diers, and killed very many of them, among whom were <hi>Owen</hi> Mc <hi>Sherney Morris</hi> O <hi>Farey</hi> and <hi>Donnagh</hi> O <hi>Callan,</hi> Gentlemen of quality and Eſtates.</p>
+               <p>About the ſame time Cap. <hi>Flemming</hi> and other Officers of the ſaid Regiment, commanding a party, ſmothered to death 220. women and children in two Caves.</p>
+               <p>
+                  <pb n="3" facs="tcp:59421:8"/>
+About the ſame time the aforeſaid Captain <hi>Cunnigham</hi> mur<g ref="char:EOLhyphen"/>thered about 63 women and children in the Iſles of <hi>Roſſe.</hi>
+               </p>
+               <p>1641. The Governour of <hi>Letter Kenney,</hi> gathered together on a Sunday morning 53 poor people, moſt of them women and children, and cauſed them to be throwne off the Bridge into the River and drowned them all.</p>
+               <p>1641. In <hi>November,</hi> one <hi>Reading</hi> murthered the wife and three children of <hi>Shane O Morhghy</hi> in a place called <hi>Ballikenny</hi> of <hi>Ramalton,</hi> and after her death cut off her breaſts with his ſword.</p>
+               <p>1641. 1642. The Garriſons of <hi>Rapho, Drombo, Lifford,</hi> and <hi>Caſtle-raghen</hi> ſlaughtered no leſs then 1500 of the poor neighbouring Inhabitants, never in Arms, and three perſons were chiefly noted among them for their barbarous cruelty, by name <hi>Iames Graham, Henry Dugan,</hi> and <hi>Robert Cunnigham,</hi> com<g ref="char:EOLhyphen"/>monly called the killer of old women.</p>
+               <p>1641. 1642. About 2000 poor Labourers, women and children of the <hi>Barreny</hi> of <hi>Terhu</hi> were maſſacred by the Garriſons of <hi>Bellaſhanny</hi> and <hi>Donegal</hi> and Lieutenant <hi>Thomas Poe,</hi> an Offi<g ref="char:EOLhyphen"/>cer among them, coming under colour of friendſhip to viſit a neighbour that lay ſick in his bed and to whom he owed mo<g ref="char:EOLhyphen"/>ney) carried a naked Dagger under his Cloak which (whilſt he ſeemed to bow towards the ſick man in a friendly manner asking how he did) he thruſt it into his body, and told his wife, her husband ſhould be no longer ſick, and ſo killed him.</p>
+               <p>1650. In the month of <hi>Iune</hi> about 3000 Horſe and Foot of his Majeſties Army, being defeated near <hi>Letter Kenny,</hi> by the Engliſh Rebels adhering to <hi>Cromwel</hi> moſt of the principal Of<g ref="char:EOLhyphen"/>ficers of the ſaid party taken Priſoners, in the Battail were killed in cold blood, by order of Sir <hi>Charles Coot</hi> late Lord of <hi>Montrath,</hi> notwithſtanding they had quarter from the Officers who took them Priſoners.</p>
+            </div>
+            <div type="county">
+               <head>County of Monagham.</head>
+               <p>1641. Captain <hi>Townſley</hi> Governour of <hi>Magherneckle,</hi> kil<g ref="char:EOLhyphen"/>led four Labourers and a woman being under protection.</p>
+               <p>
+                  <pb n="4" facs="tcp:59421:9"/>
+Captain <hi>Bromwel</hi> Governour of <hi>Clunes</hi> meeting upon the road with Mr. <hi>Charles O Connelly,</hi> a Gentleman living under his Protection, cauſed him to be ſhot to death.</p>
+               <p>1641. The Souldiers of the Garriſons of <hi>Dundalk</hi> and <hi>Trim,</hi> killed no leſs then 500 poor innocent perſons, women and children in that County.</p>
+               <p>1641. 1642. The Armies of <hi>Montroe</hi> and the <hi>Legan</hi> in their ſeveral marches through that Country, ſlaughtered about 2000 poor old men women and children.</p>
+               <p>1652. Col. <hi>Barrow</hi> of <hi>Cromwels</hi> Army having taken an Iſland defended by Lieutenant Col. <hi>Patrick,</hi> Mr. <hi>Mahon</hi> for his Majeſty after killing the ſaid Lieutenant Col. and his Souldi<g ref="char:EOLhyphen"/>ers, put all the women and children to the ſword, to the num<g ref="char:EOLhyphen"/>ber of 80. among whom a little pretty child of 6 years old, be<g ref="char:EOLhyphen"/>ing ſpared by the Souldiers, was killed by order of the ſaid Col. <hi>Barrow.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>County of Cavan.</head>
+               <p>1641. Mr. <hi>Dela Pool</hi> an Engliſh Gentleman having taken Lands in that County ſome years before the warr, invited ſeveral of his friends to come out of <hi>England</hi> and ſive with him, who were all murthered in their Houſes by the Army (only the ſaid <hi>Dela Pool</hi> who was brought into the Town of <hi>Cavan</hi> and there hanged) for no other reaſon, but their being Roman Catholiques, and li<g ref="char:EOLhyphen"/>ving among the <hi>Iriſh.</hi>
+               </p>
+               <p>1641. Sir <hi>Alexander Gorden</hi> and his Lady being Scotch, but Roman Catholiques, each of them above 70 years old were plun<g ref="char:EOLhyphen"/>dred of their goods and ſtript naked. And all their Tennants, Ser<g ref="char:EOLhyphen"/>vants, and all their Sons murthered.</p>
+               <p>In the ſame year the Engliſh forces in this County drowned 600 men, women, and children, in and about <hi>Butlers-Bridge,</hi> no murthers having been committed on any Proteſtants there although in the Pamphlet lately printed, ſeveral murthers are ſaid to be committed in that place.</p>
+            </div>
+            <div type="county">
+               <pb n="5" facs="tcp:59421:9"/>
+               <head>County of Mayo.</head>
+               <p>In this County few murthers were committed by either ſide, though the Lible ſaith that about 250 Proteſtants were murthered whereof at <hi>Bellicke</hi> 220, whereas not one perſon was muthered there, which the now Lady of <hi>Montrath</hi> can witneſs, her Lady<g ref="char:EOLhyphen"/>ſhip, Sir <hi>Robert Hanna</hi> her father, with many others being retrea<g ref="char:EOLhyphen"/>ted thither for ſecurity, were all conveyed ſafe to <hi>Mannor Hamil<g ref="char:EOLhyphen"/>ton,</hi> and it is obſervable that the ſaid Lady and the reſt came to Mr. <hi>Owen O Rorrkes</hi> who kept a Garriſon at <hi>Drumahier</hi> for the <hi>Iriſh,</hi> before they came to <hi>Mannor Hamilton</hi> whoſe brother was priſoner with Sir <hi>Frederick Hamilton,</hi> and the ſaid Mr <hi>Rorrk</hi> ha<g ref="char:EOLhyphen"/>ving ſo many perſons of quality in his hand, ſent to Sir <hi>Frederick</hi> to enlarge his brother, and that he would convey them all ſafe to him, Sir <hi>Frederick</hi> inſteed of an enlarging the brother, hanged him the next day after be received the meſſage, which might have well provoked the Gentleman to a revenge, if he had not more humanity, then could be well expected upon ſuch an occaſion, and in times of ſo great confuſion yet he ſent them all ſafe where they deſired.</p>
+               <p>There was a murder committed neer the <hi>Moyn</hi> on 27 Prote<g ref="char:EOLhyphen"/>ſtants which was all (and that too many) that was committed in that County, <hi>Buchanan</hi> ſaid to be buried alive, was killed in a private quarrel, and he cut off his adverſaries hand before him<g ref="char:EOLhyphen"/>ſelf was killed.</p>
+            </div>
+            <div type="county">
+               <head>County of Galway and Province of Connaght.</head>
+               <p>
+                  <hi>Anno</hi> 1642. Seirjeant <hi>Redmond Burk</hi> of the Lord of <hi>Clan<g ref="char:EOLhyphen"/>morris</hi> his Foot Company and two more, were hanged by the then Governour of the fort of <hi>Gallway,</hi> the ſaid Lord being then of his Majeſties Army, for which action no reparation being given to his Lordſhip, he pretended it to be the occaſion of his Revolt from the Lord Marqueſs of <hi>Clanriccard.</hi>
+               </p>
+               <p>
+                  <hi>Anno</hi> 1642. A party of the Garriſon of the ſaid Fort, mur<g ref="char:EOLhyphen"/>thered ſix people in <hi>Rinveel,</hi> amongſt whom one <hi>Geffery Fitz</hi>
+                  <pb n="6" facs="tcp:59421:10"/>
+                  <hi>Thibot,</hi> aged about 70 years and in a burning Feavour, with his wife who was as old, were murthered in their beds, which acti<g ref="char:EOLhyphen"/>on provoked many of the neighbours to ſtand on their guard a<g ref="char:EOLhyphen"/>gainſt the ſaid Fort.</p>
+               <p>
+                  <hi>Anno.</hi> 52. <hi>Redmond Burke</hi> a Col. in his Majeſties Army had quarter given him by ſome of Col. <hi>Coots</hi> men he being taken in a skirmiſh between Col. <hi>Grace</hi> and ſome of <hi>Cromwels</hi> party, and be<g ref="char:EOLhyphen"/>ing priſoner for ſome time, Col. <hi>Henry Ingelsby</hi> cauſed his head to be cut off.</p>
+               <p>
+                  <hi>Anno</hi> 52. 53. It was an uſual practiſe with Col. <hi>Stubbers</hi> then Governour of <hi>Galway,</hi> and others commanding in the ſaid Coun<g ref="char:EOLhyphen"/>ty to take the people out of their beds at nights, and ſell them for Slaves to the Indies, and by computation ſould out of the ſaid County above 1000 ſoules.</p>
+            </div>
+            <div type="county">
+               <head>Murthers committed in the ſaid County of Gallway on Proteſtants.</head>
+               <p>
+                  <hi>Anno</hi> 42. It is confeſſed that two Proteſtants were murthered in that County, whereof one was a Miniſter as the Libel ſayes, but it is moſt certain, that the Lord Marqueſs of <hi>Clanriccard</hi> cau<g ref="char:EOLhyphen"/>ſed the three men who murthered one of them to be hanged in Gibbets in three ſeveral places, and by his Lordſhips orders Sir <hi>Roger O Shaghneſy</hi> hanged the two Cow-heards who murthered the other.</p>
+               <p>
+                  <hi>Anno</hi> 42. It is confeſſed that the Lord of <hi>Clanmorris</hi> having declared againſt the ſaid Fort, for hanging his Serjeant as above expreſſed, took Serjeant <hi>Rowleright,</hi> and two or three more of the Souldiers of the ſaid Fort pilladging a village neer <hi>Gallway,</hi> and hanged <hi>Rowleright</hi> and the other three.</p>
+               <p>It is alſo confeſſed that a barbarous murther was committed by one <hi>Edmund Alta,</hi> an irreligious prophane fellow of the County of <hi>Mayo,</hi> and his wicked complices on ſome Proteſtants at <hi>Shruel</hi> a place mearing with the county of <hi>Gallway</hi> on about 30 perſons, and the Pamphleter might well remember that the neighbouring Gentry came with all expedition to reſcue the ſaid Proteſtants, and that they did reſcue the Biſhop of <hi>Killala</hi> (who by the Pam<g ref="char:EOLhyphen"/>phlet
+<pb n="7" facs="tcp:59421:10"/>
+ſeems to have been murthered) and his wife and children<g ref="char:punc">▪</g> with the moſt part of the ſaid Proteſtants, and <hi>Bryen Kilkenny</hi> a Fryer, then Guardian of the Abby of <hi>Roſs</hi> neer <hi>Shruel,</hi> was of the firſt that made haſt to that reſcue, and brought the ſaid Biſhops wife and children, with ſeveral others of the ſaid diſtreſſed Pro<g ref="char:EOLhyphen"/>teſtants to his Monaſtry, where they found as much civility as was in the ſaid Fryers Power to give them for ſeveral nights, until Mr. <hi>Burk</hi> of <hi>Caſtle Hacket</hi> brought the ſaid Biſhop, his wife and family to his own houſe where they wanted nothing he could af<g ref="char:EOLhyphen"/>ford them for ſome weeks, the like being done by ſeveral other neighbouring Gentlemen to the reſt of the ſaid Proteſtants, until they were ſent to places of ſecurity by the Lord Marqueſſe <hi>Clan<g ref="char:EOLhyphen"/>riccard</hi> his order, yet the ſaid Fryar hath been theſe eight years paſt kept a Priſoner for his function or calling without any other crime laid to his charge, now being about 80 years of age.</p>
+               <p>And it is obſervable that in this county of <hi>Gallway</hi> all the war time ſeveral Proteſtant Miniſters <hi>viz. Dean York,</hi> Mr. <hi>Corroyn,</hi> Mr. <hi>Nelly,</hi> and other Miniſters, had their Proteſtant Flocks and meetings without interruption living amongſt the Iriſh,</p>
+            </div>
+            <div type="county">
+               <head>County of Roſcoman.</head>
+               <p>No murthers were committed by any party in this County only five perſons at <hi>Bellanafada</hi> by one <hi>Roger O Conor;</hi> and no murther was committed at <hi>Bellalegue</hi> during the War, although in the Pamphlet the contrary is expreſſed, nor no ſuch man as <hi>William Steward</hi> was known in that County, nor to have been murthered there though the ſaid abſtract ſets forth his being mur<g ref="char:EOLhyphen"/>thered in a moſt barbarous manner.</p>
+            </div>
+            <div type="county">
+               <head>County of Leotrim.</head>
+               <p>
+                  <hi>Anno</hi> 1641. It was commonly known to all ſides how cruel the Governour of <hi>Mannor Hamilton</hi> was in that County, how he uſually invited Gentlemen to Dine with him, and hanged them after Dinner, and cauſe their thighes to be broke with hatchets before execution.</p>
+               <p>
+                  <pb n="8" facs="tcp:59421:11"/>
+Alſo the ſaid Governour being in <hi>Vlſter</hi> when then Rebellion broke forth, deſired one Mr. <hi>Iraght</hi> (a Gentleman who profeſſed much friendſhip to him) to do him the favour to guide him in ſafety to <hi>Mannor Hamilton</hi> aforeſaid which the Gentleman did, and came neer upon a 100 miles with him, after being friendly treated for ſome days by the ſaid Governor he hanged without the leaſt occaſion, neither was the Gentleman in the Rebelion, but was hanged leaſt he ſhould. The Libel ſayes three Prote<g ref="char:EOLhyphen"/>ſtants were murthered in this County, but on due examination it will be found three was none.</p>
+            </div>
+            <div type="county">
+               <head>County of Sligoe.</head>
+               <p>Here is none at this time who can give any exact account of the murthers committed in this County, but one remarkable murther, that in <hi>Creanes</hi> Caſtle in the Town of <hi>Sligo,</hi> the <hi>Iriſh</hi> had a partie commanded by Major <hi>Richard Burke</hi> after obteining quarter for them to march away, to the number of about 200 were murthered rendering the Caſtle, this Sir <hi>Audley Mervyne</hi> knoweth to be true.</p>
+            </div>
+            <div type="county">
+               <head>County of Dublin.</head>
+               <p>1641. About the begining of <hi>November,</hi> 5 poor men (where<g ref="char:EOLhyphen"/>of two were Proteſtants) coming from the Market of <hi>Dublin,</hi> and lying that night at <hi>Santry</hi> 3 miles from thence, were Murthered upon their Beds by one Cap. <hi>Smith,</hi> and a party of the Gariſon of <hi>Dublin,</hi> and their heads brought next day in tryumph into the Citty, which occaſioned <hi>Luke Nettervel</hi> and <hi>George King</hi> and o<g ref="char:EOLhyphen"/>thers of the neighbours, to write to the Lord Juſtices to know the cauſe of the ſaid murther, whereupon their Lordſhips iſſued forth a Proclamation that within 5 days the Gentry ſhould come to <hi>Dublin</hi> to receive ſatisfaction, and in the mean while (before the 5 days were expired) old Sir <hi>Charles Coote</hi> came out with a party plundred and burned the Town of <hi>Clontraffe</hi> diſtant 2 miles from <hi>Dublin</hi> belonging to the ſaid <hi>Gorge King</hi> nominated in the Procla<g ref="char:EOLhyphen"/>mation, and killed 16 of the Townſmen and women and 3 ſuck<g ref="char:EOLhyphen"/>ing
+<pb n="9" facs="tcp:59421:11"/>
+Infants, which unexpected breach of the Proclamation (ha<g ref="char:EOLhyphen"/>ving deterred the Gentlemen from waiting of the Lords Juſti<g ref="char:EOLhyphen"/>ces) forced many of them to betake themſelves to their natural defence, and others to abandon their houſes.</p>
+               <p>In the ſame week 56 men, women and children of the Vil<g ref="char:EOLhyphen"/>lage of <hi>Bullogge</hi> (being frighted at what was done at <hi>Clontarff,</hi> took boates and went to Sea, to ſhun the fury of a party of Soul<g ref="char:EOLhyphen"/>diers come out of <hi>Dublin,</hi> under the command of Collonel <hi>Crafford,</hi> but being purſued by the ſouldiers in other Boats, were overtaken and thrown over board.</p>
+               <p>One <hi>Ruſſel</hi> a Baker in <hi>Dublin</hi> coming out of the Countrey, in company with Mr. <hi>Archbold</hi> of <hi>Clochram</hi> (who went to take hold of the ſaid Proclamation of the Lords Juſtices) were both hanged and quartered.</p>
+               <p>1641. In March, a party of horſe of the Garriſon of <hi>Donſogh<g ref="char:EOLhyphen"/>lin,</hi> murthered ſeven or eight poor people in Protection, Ten<g ref="char:EOLhyphen"/>nants to Mr. <hi>Dillon</hi> of <hi>Hunſtowne</hi> having quartered in their hou<g ref="char:EOLhyphen"/>ſes the night before, and receiving ſuch entertainment as the poor people could afford.</p>
+               <p>About the ſame time, a party of the Engliſh quartered at <hi>Mallahyde,</hi> hanged a ſervant of Mr <hi>Robert Boynes</hi> at the Plough, and forced a poor Labourer to hang his own brother, and ſoon after they hanged fifteen of the Inhabitants of <hi>Swords</hi> who never bore Armes, in the Orchard of <hi>Mallahide,</hi> and hanged a woman for bemoaning her husband hanged amonſt them.</p>
+               <p>In the ſame year after quarter given by Lieutenant Colonel <hi>Gibſon,</hi> to thoſe of the caſtle of <hi>Carriggmain</hi> they were all put to the ſword, being about three hundred and fifty, moſt of them women and children, and Collonel <hi>Waſhington</hi> endeavouring to ſave a pretty child of ſeven years of age, carryed him under his cloake, but the child againſt his will was killed in his armes, which was a principal motive of his quitting that ſervice.</p>
+               <p>1642. In <hi>April</hi> one <hi>Nicholas Hart</hi> and fourteen Labourers, going with corn to the market of <hi>Dublin,</hi> and having a paſs, were all murthered upon the road, by a party commanded abroad by Lord <hi>Lambert.</hi> The ſame day Mr. <hi>Sarsfield</hi> of <hi>Lucan,</hi> ſent his
+<pb n="10" facs="tcp:59421:12"/>
+Groom to guide the Lord of <hi>Geſils</hi> Troop, which the fellow having performed, was knocked in the head for his labour. The ſame day eighteen villages in Protection, the furtheſt within ſix miles to <hi>Dublin,</hi> were plundered and burned, and to the num<g ref="char:EOLhyphen"/>ber of four hundred men women and children, were cruelly maſſacred.</p>
+               <p>About the ſame time, a party of the Garriſon of <hi>Swoards,</hi> having brought in thirty poor Labourers, forced them to digg their own graves and then killed them.</p>
+               <p>Much about that time, one <hi>Benet Sheriff</hi> of the county, kill'd ſixteen men and women coming from the market of <hi>Dub<g ref="char:EOLhyphen"/>lin</hi> in <hi>May.</hi> A party under the command of Collonel <hi>Crafford</hi> murthered one hundred forty women and children in <hi>Newcaſtle</hi> and <hi>Coolmine,</hi> being under protection.</p>
+               <p>1641. 1642. Many thouſands more of the poor innocent people of that County, ſhunning the fury of the Souldiers fled ſeveral times into thickets of Firres which the Souldiers did u<g ref="char:EOLhyphen"/>ſually fire, killing as many as endeavoured to eſcape, or forced them back again to be burnt, and the reſt of the Inhabitants for the moſt part dyed of Famine.</p>
+               <p>1649. Captain <hi>Harrington</hi> a Proteſtant, and three hundred Officers and Souldiers, taken Priſoners at the defeat given his Majeſties Army before <hi>Dublin,</hi> were after quarter given, put to death by order of Collonel <hi>Michael Iones.</hi>
+               </p>
+               <p>Mr. <hi>Wogan</hi> of <hi>Rathcoffie,</hi> having quarter given him in the ſame time, by Captain <hi>Ottoway,</hi> was killed by Lieutenant <hi>Tomſon,</hi> as he rid behind one of <hi>Ottoways</hi> troopers, and one Mr. <hi>Hiny</hi> an aged perſon after dividing his goods to the value of fif<g ref="char:EOLhyphen"/>teen hundred pound among the Souldiers, was knocked in the head, together with his daughter, her husband and four chil<g ref="char:EOLhyphen"/>dren after quarter.</p>
+               <p>Note that no leſs then twelve thouſand of the poor Inhabi<g ref="char:EOLhyphen"/>tants of that county, were cruelly maſſacred the firſt year of the War.</p>
+            </div>
+            <div type="county">
+               <pb n="11" facs="tcp:59421:12"/>
+               <head>County of Kildare.</head>
+               <p>1641. Captain <hi>Thomas Hues</hi> having ſummoned thirty three contributers to meet him at <hi>Hodgeſtowne,</hi> cauſed them all to be murthered.</p>
+               <p>1641. The ſaid <hi>Hues</hi> murthered Mrs. <hi>Euſtare</hi> Aunt to Sir <hi>Robert Talbot</hi> ninty years old (with two gentlewomen that wai<g ref="char:EOLhyphen"/>ted on her) after ſhe entertained him friendly in her houſe.</p>
+               <p>1641. The Souldiers of <hi>Clongowes wood</hi> and <hi>Rathcoffy</hi> yeil<g ref="char:EOLhyphen"/>ding upon quarter, were conveyed to <hi>Dublin</hi> and hanged there &amp; upwards of an hundred and fifty women and children, were found in the ſaid places murthered.</p>
+               <p>
+                  <hi>Anno</hi> 51. Capt. <hi>Hulet</hi> coming to Sir <hi>Iohn Dongans</hi> houſe at <hi>Caſtle town,</hi> to ſearch for a Prieſt, tortured a child of Sir <hi>Iohns</hi> of ſeven years of age with lighted matches, to force a confeſſion from him where the Prieſt was, and the poor child not telling, or not knowing, <hi>Hulet</hi> hung him up with the Reines of his bridle, but the Troopers when <hi>Hulets</hi> back was turnd, cut him down half dead, whereof the child dyed ſoon after.</p>
+               <p>It is well known that the Commons of that county were for the moſt part deſtroyed and ſlaughtered by the Engliſh, in ſo much that there were not ſo many left living as could gather the 20th part of the harveſt.</p>
+            </div>
+            <div type="county">
+               <head>County of Meath.</head>
+               <p>1642. In <hi>April</hi> Mrs <hi>Elinor Taaffe</hi> of <hi>Tullag hanoge,</hi> ſixty years old, and 6 women more were murthered by the Souldiers of the Garriſon of <hi>Trim,</hi> and a blind woman aged eighty years, was incompaſſed with ſtraw by them, to which they ſet fire and ſo burnt her, the ſame day they hanged two women in <hi>Kilbride</hi> and two old decrepit men that begged Almes of them.</p>
+               <p>In the ſame year Mr. <hi>Walter Dulin</hi> an old man, unable to ſtir, abroad many years before the war, was killed in his own houſe by Lieutenant Collonel <hi>Broughtons</hi> troopers, notwithſtanding
+<pb n="12" facs="tcp:59421:13"/>
+the ſaid <hi>Broughtons</hi> Protection which the old man produced.</p>
+               <p>1642. Mr. <hi>Walter Euers</hi> a Juſtice of peace and Coram, an aged man and bedrid of the Palſie long before the Rebellion, was carryed in a Carr to <hi>Trim.</hi> and there hanged by the Gover<g ref="char:EOLhyphen"/>nours orders.</p>
+               <p>
+                  <hi>Anno</hi> 1642. Many Ploughmen were killed in <hi>Philbert-Stowne</hi> by the Garriſon at <hi>Bective.</hi>
+               </p>
+               <p>1642. 40. Men women and children in Protection reaping their harveſt in <hi>Boneſtowne</hi> were killed by a troop of the ſaid Garriſon, who upon the ſame day killed Mrs <hi>Alfon Read,</hi> at <hi>Don<g ref="char:EOLhyphen"/>ſaghiln</hi> being eighty nine years old, and forty perſons more, moſt of them women and children ſhunning the fury of the ſaid troop, were overtaken and ſlaughtered.</p>
+               <p>1642. About ſeventy men, women and children, tenants to Mr. <hi>Francis</hi> Mc O <hi>voy,</hi> and under protection, were killed by <hi>Greenvils</hi> Souldiers, and 160 more in the Pariſh of <hi>Rathcoare,</hi> whereof there was an aged couple blind fifteen years before.</p>
+               <p>1642. Cap. <hi>Sandford</hi> and his troopers, murthered in and about <hi>Mulhuſſey</hi> upwards of one hundred men, women and children, under protection, and cauſed one <hi>Conor Breſlan</hi> to be ſtuck with a knife into the throat, and ſo bled to death, and one <hi>Eliner Cu<g ref="char:EOLhyphen"/>ſaack</hi> one hundred years old, was tyed about with lighted mat<g ref="char:EOLhyphen"/>ches, and ſo tortured to death in <hi>Clonmoghan.</hi>
+               </p>
+               <p>1642. <hi>Iames Dowlan</hi> about a hundred years old, <hi>Donagh Co<g ref="char:EOLhyphen"/>men, Derby Dennis, Roger Bolan,</hi> and ſeveral other Labourers and women, to the number of a hundred and ſixty making their har<g ref="char:EOLhyphen"/>veſt, were all ſlaughtered by the Garriſon of <hi>Trim.</hi>
+               </p>
+               <p>1642. Mr. <hi>Barnwal</hi> of <hi>Tobertinan,</hi> and Mr. <hi>Iohn Huſſeg</hi> in<g ref="char:EOLhyphen"/>nocent perſons were hanged at <hi>Trim,</hi> by old Sir <hi>Charles Cootes</hi> party.</p>
+               <p>1642. <hi>Gerrald Lynch</hi> of <hi>Donower</hi> aged eighty years, was kil<g ref="char:EOLhyphen"/>led by troopers of <hi>Trin</hi> being in protection.</p>
+               <p>Mr. <hi>Thomas Talbot</hi> of <hi>Crawlſtowne</hi> about eighty years old being protected, and a known ſervitor to the Crown, (having been Lieutenant of <hi>horſe,</hi> to the Lord of <hi>Hoaths</hi> troop in the Battail of <hi>Kinſale,</hi> in Queen <hi>Eliz. Raigne,</hi> was killed at his own door by ſome of Captain <hi>Marroes</hi> troop.</p>
+               <p>
+                  <pb n="13" facs="tcp:59421:13"/>
+1642. About the month of <hi>April,</hi> the Souldiers under the ſaid <hi>Greenvils</hi> command, killed in and about the <hi>Navan</hi> eighty men, women and children, who lived under Protection.</p>
+               <p>1641. Captain <hi>Wentworth</hi> and his company, garriſoned at <hi>Donmo,</hi> killed no leſs then two hundred protected perſons, in the Pariſh of <hi>Donamore Slane,</hi> and <hi>Barroni</hi> of <hi>Margellin</hi> and <hi>Ovmorein,</hi> the town of <hi>Ardmulchan Kingſtowne</hi> and <hi>Hariſtowne,</hi> all protected perſons.</p>
+               <p>1642. Sir <hi>Richard Greenfields</hi> troop killed forty two men, women and children, and eighteen Infants at <hi>Doramſtowne.</hi>
+               </p>
+               <p>2642. A woman in Protection was by Capt. <hi>Marrowes</hi> Soul<g ref="char:EOLhyphen"/>diers put into the ſtocke of a Tuckmil and ſo tuckt to death, in the town of <hi>Steedalte.</hi>
+               </p>
+               <p>Lieutenant <hi>Ponſonby</hi> put two aged protected perſons to death at <hi>Dowanſtone,</hi> each of them being about eighty years old.</p>
+               <p>Captain <hi>Marrow</hi> cauſed about an hundred protected perſons, men, women and children to be put to death in the <hi>Barrony</hi> of <hi>Dooleek,</hi> and Lieutenant <hi>Iohn Tench</hi> killed a protected perſon 70 years old neer <hi>Duleek.</hi>
+               </p>
+               <p>Mr. <hi>Patrick White,</hi> ſon and heir of Mr. <hi>White</hi> of <hi>Clangil<g ref="char:punc">▪</g>
+                  </hi> in protection, was taken out of his bed and knockt in the head, by Lieu. <hi>Luaton</hi> of the Garriſon of <hi>Trim.</hi>
+               </p>
+               <p>1647. Three thouſand Souldiers at the Battail of <hi>Dongans<g ref="char:EOLhyphen"/>hill,</hi> were killed after quarter given them, by Coll. <hi>Michael Iones,</hi> and many Iriſh Officers taken in the battail, and deeply wounded were killed the next day after, when they could not march on foot.</p>
+               <p>1649. After the taking of <hi>Drogheda</hi> by <hi>Cromwel,</hi> the ſlaugh<g ref="char:EOLhyphen"/>terer of men, women and children, continued there for four or five days together in cold blood, to the number of about four thouſand.</p>
+               <p>Many thouſands of the poor Inhabitants of this county were deſtroyed in the Firrs, as thoſe in the county of <hi>Dublin,</hi> and the reſt for the moſt part periſhed with Famine.</p>
+            </div>
+            <div type="county">
+               <pb n="14" facs="tcp:59421:14"/>
+               <head>County of Weſtmeath.</head>
+               <p>1642. About the latter end of <hi>March,</hi> Mr. <hi>Chriſtopher Mac Gawley</hi> notwithſtanding the protection of the Duke of <hi>Ormond,</hi> was killed in his own houſe with two of his ſervants, by a party of the Engliſh Aarmy marching to <hi>Athlone,</hi> who laying the ſaid tection on the ſaid <hi>Gawleys</hi> breſt, ſhot him through his pro<g ref="char:EOLhyphen"/>tection, to try whether it was proof againſt a buller.</p>
+               <p>1942. Mrs. <hi>Ellis Dillon</hi> of <hi>Killenenin</hi> having the Lord Juſti<g ref="char:EOLhyphen"/>ces protection for her ſelf, and her tennants, was plundred and 40 of the ſaid Tennants their wives and children were killed by ſouldiers under Sir <hi>Michael Earnely's</hi> command.</p>
+            </div>
+            <div type="county">
+               <head>County of Louth.</head>
+               <p>1641. In the month of <hi>February,</hi> about 300 poor people men women and Children were cruelly ſlaughtered in the wood of <hi>Deruer</hi> by a party of the Garriſon of <hi>Dondalke</hi> and <hi>Tredath.</hi>
+               </p>
+               <p>1641. About the beginning of <hi>March</hi> about 300 hundred Farmers and labourers never in Armos, with their wives and Children were maſacred by a party of the Garriſons of <hi>Don<g ref="char:EOLhyphen"/>dalke</hi> and <hi>Tredath</hi> in the <hi>Redmoore</hi> of <hi>Braganſtowne.</hi>
+               </p>
+               <p>About the ſame time Captain <hi>Charles Townſly</hi> and Lievtenant faithful <hi>Townſly,</hi> with a party of the Engliſh Army and Garriſon of <hi>Dundalke</hi> ſlaugtered at <hi>Dunmogham</hi> 220 Inhabitants of ſever<g ref="char:EOLhyphen"/>al Villag es commanded by the Officers of the ſaid Army to live in that place for their greater ſecurity.</p>
+               <p>A party of the ſaid Garriſon of <hi>Tredath</hi> and <hi>Dundalke,</hi> killed above 200 perſons in the Caſtle of <hi>Reaghſtowne</hi> after quarter given.</p>
+               <p>1641. One <hi>Anthony Townſly</hi> hanged Mr. <hi>Dromgole</hi> of <hi>Drom<g ref="char:EOLhyphen"/>goolſtowne</hi> at his own gate, the ſaid <hi>Townſley</hi> hanged upward of 30 poor men and women, going to the Markets of <hi>Dundalke</hi> and <hi>Tredath,</hi> on a tree commonly called eight mile Buſh mid<g ref="char:EOLhyphen"/>way between the ſaid Townes.</p>
+               <p>
+                  <pb n="15" facs="tcp:59421:14"/>
+1642. A party of horſe and foot of the Gariſon of <hi>Tredah,</hi> kill'd and burnt in the firres above 160 men women and chil<g ref="char:EOLhyphen"/>dren of the Inhabitants of <hi>Termoufeighin,</hi> within three miles of <hi>Tredah</hi> no leſs then a 10000 of the poor Inhabitants of that County though they are not taxed with any murther committed on the Proteſtants according to their own abſtract, were maſacred.</p>
+            </div>
+            <div type="county">
+               <head>County of Wicklow.</head>
+               <p>
+                  <hi>October</hi> 1641. Three women whereof, one Gentle woman big with Child, and a boy were hanged on the Bridge of <hi>Neu<g ref="char:EOLhyphen"/>ragh,</hi> by command of of old Sir <hi>Charles Coote</hi> in his firſt march to that County, and cauſed his guid to blow into his Piſtol and ſo ſhot him dead, he alſo hang'd a poor Butcher on the ſame march, called <hi>Thomas Mc William.</hi>
+               </p>
+               <p>1641. Mr. <hi>Denis Conyam</hi> of <hi>Glanely</hi> aged and unable to bear Armes was roſted to death by Capt. <hi>Gee</hi> of Col. <hi>Craffords</hi> Regi<g ref="char:EOLhyphen"/>ment, &amp; in all the marches in 41, 42, 43, the Engliſh Army killed all they met in this County though no murthers are charged on the ſaid County, to be committed on Proteſtants by the Ab<g ref="char:EOLhyphen"/>ſtract.</p>
+               <p>In the Uſurpers time Captain <hi>Barrington</hi> Garriſoned at <hi>Arcklow,</hi> Murthered <hi>Donnagh O Doyle</hi> of <hi>Killoarrow</hi> and above 500 more Protected by himſelf, and it is well known that moſt of the comonalty of this County were murthered.</p>
+               <p>1650. Mr. <hi>Birne</hi> of <hi>Munneg</hi> a Gentleman of an inoffenſive <hi>Demeanor</hi> being then in protection, the Governour of <hi>Carloe,</hi> marched with a party to this County; the ſaid <hi>Birne</hi> came to him and two of his ſervants produced his Protection, notwithſtanding which he and his two ſervants were hanged, for no other reaſon then that the Gentleman had a great ſtood of Horſes and Mares, beſides a good ſtock of Cows which were out of hand ſeized on by the ſaid Governor and his party.</p>
+            </div>
+            <div type="county">
+               <pb n="16" facs="tcp:59421:15"/>
+               <head>County of Kilkenny.</head>
+               <p>1641. The Engliſh Souldiers of the Garriſon of <hi>Ballenekil</hi> burnt an old woman of ninety years old in her own houſe in <hi>Idough.</hi>
+               </p>
+               <p>1642. The ſaid Souldiers maſſacred a hundred eighty men, women and children, who were cutting their Corn neer the ſaid Garriſon. They dragged Mr. <hi>Thomas Shee</hi> an innocent per<g ref="char:EOLhyphen"/>ſon out of his own houſe with five of his Servants, and hanged them all at <hi>Ballenekil.</hi>
+               </p>
+               <p>1650. Col. <hi>Daniel Axtel</hi> cut of the head of of Mr. <hi>Fitz Gerret</hi> of <hi>Browneifords</hi> Son, and hanged the ſons of Mr. <hi>Butler</hi> of <hi>Ballikify</hi> and Mr. <hi>Butler</hi> of <hi>Boni'dſtowne</hi> becauſe their fathers inliſted themſelves in his Majeſties Army.</p>
+               <p>One <hi>Francis Frisby</hi> an Engliſh man and a Proteſtant, Butler to the Duke of <hi>Ormond</hi> having had quarter upon the Rendition of <hi>Killkenny</hi> to <hi>Cromwel</hi> was apprehended by the ſaid Col. <hi>Ax<g ref="char:EOLhyphen"/>tel,</hi> and for not confeſſing his Lords plate, was tortured to death by burning matches between his fingers, in the caſtle of <hi>Kill<g ref="char:EOLhyphen"/>kenny.</hi>
+               </p>
+               <p>1651. Major <hi>Shertal,</hi> an Officer of his Majeſties Army having delivered the Caſtle of of <hi>Ballimay</hi> upon quarter of life and liber<g ref="char:EOLhyphen"/>ty to Col. <hi>Axtel,</hi> was run through the body by the ſaid Col. and all his Souldiers to number of 190 were killed.</p>
+               <p>1651. Captain <hi>Thomas Shertel,</hi> a Captain of horſe in his Ma<g ref="char:EOLhyphen"/>ieſties Army coming to <hi>Killkenny</hi> upon a ſafe conduct, was hang'd by the ſaid <hi>Axtel,</hi> becauſe he had a good eſtate, within 2 miles of <hi>Killkenny.</hi>
+               </p>
+               <p>1650. Col. <hi>Axtel</hi> hanged 50 of the Inhabitants neere <hi>Thoma<g ref="char:EOLhyphen"/>ſtowne,</hi> living under his protection, for no other reaſon but that a party of <hi>Cromwels</hi> Army was defeated the day before in that place, by ſome of the Royaleſts.</p>
+               <p>Col. <hi>Axtel</hi> meeting one day 40 men women and children neer the Wood of <hi>Kildonan</hi> who were coming for greater ſecurity to live within his quarters cauſed them all to be killed.</p>
+               <p>
+                  <pb n="17" facs="tcp:59421:15"/>
+Some Souldiers of the Kings army being taken in avillage in <hi>Graces</hi> pariſh, Col. <hi>Axtel</hi> cauſed all the inhabitants of the ſaid village to be apprehended, hanged three of them, and ſold the reſt to the Barbadoes.</p>
+               <p>1650. The ſaid <hi>Axtel</hi> (as matter of recreation) comman<g ref="char:EOLhyphen"/>ded his troop to gather together a great number of the pro<g ref="char:EOLhyphen"/>tected people neer <hi>Kilkenny,</hi> and being all in a cluſter, bid the troopers ruſh through them and to kill as many as hapened on the left hand of the troop, and to ſpare the reſt, 30 perſons were murthered then on that account.</p>
+            </div>
+            <div type="county">
+               <head>County of Wexford.</head>
+               <p>1651. Col. <hi>Cook</hi> in one march out of <hi>Iniſcorphy</hi> into the Barronyes of <hi>Ballaghkene</hi> and <hi>Goury,</hi> murthered a hundred poor Labourers in Protection, and five hundred women and children whom he cauſed to be lock't up in their own houſes, commanding his Souldiers to ſet fire unto them, and one wo<g ref="char:EOLhyphen"/>man having eſcaped out of a houſe, was killed, and her belly barbarouſly ript up, others thruſt their ſucking babes out of the windowes, hoping that their innocency might beget pitty in the Souldiers, who by their Collonels command received the poor Infants upon the heads of their pikes and thruſt them back into the fire.</p>
+               <p>1650. 1651. The ſaid Coll. <hi>Cook</hi> in his ſeveral marches into the <hi>Baronyes</hi> of <hi>Bellaghkine</hi> and <hi>Skarawalſh,</hi> murthered up<g ref="char:EOLhyphen"/>ward of three hundred men women and children under pro<g ref="char:EOLhyphen"/>tection, yet the wife and children of this <hi>Cook</hi> (notwithſtan<g ref="char:EOLhyphen"/>ding all his barbarous cruelties committed againſt the Kings Subjects, and having alwaies emminently appeared againſt his Majeſty and his Royal Father) have been ſo well befriended as to be provided for by ſpecial name in his Majeſties Decla<g ref="char:EOLhyphen"/>ration for the ſettlement of <hi>Ireland.</hi>
+               </p>
+               <p>1650. 1651. Captain <hi>Thomas Barrington</hi> murthered no leſs then 300 men, women and children under protection in the <hi>Barronyes</hi> of <hi>Goury</hi> and <hi>Bellaghkin.</hi>
+               </p>
+               <p>
+                  <pb n="18" facs="tcp:59421:16"/>
+1650. The ſaid <hi>Barrington</hi> killed fifty women and children at a place called <hi>Layen,</hi> he was ſo noted through <hi>Cromwels</hi> Army for his cruelty, that they called him <hi>Barrington-kill</hi> all.</p>
+               <p>The above Coll. <hi>Cook</hi> cauſed twenty two of Sir <hi>Walter Don<g ref="char:EOLhyphen"/>gans</hi> men, taken at the fight at <hi>Clonigal</hi> to be killed after quar<g ref="char:EOLhyphen"/>ter given, and one Captain <hi>Birne</hi> of his Majeſties Army woun<g ref="char:EOLhyphen"/>ded in the fight, and much made of by ſome of <hi>Cookes</hi> men, who took him Priſoner, was ſoon after ſtript and killed.</p>
+               <p>Major <hi>Thomas Hart</hi> forced a country fellow under pro<g ref="char:EOLhyphen"/>tection to leap into the River <hi>Bana,</hi> and took pleaſure to ſee him drowned.</p>
+               <p>1650. Captain <hi>William Bolton</hi> of Colonel <hi>Prettys</hi> Regi<g ref="char:EOLhyphen"/>ment, ſlaughtered about two hundred &amp; fifty men, women and children under protection, in the ſaid <hi>Barronies</hi> of <hi>Karawalſh, Bellaghkine, Bantry</hi> and <hi>Gillmalere.</hi>
+               </p>
+               <p>1650. The ſaid <hi>Bolton</hi> gave quarter at Caſtle <hi>Kirk</hi> to nine Souldiers, who after delivering their Arms were ſlaughtered by his order.</p>
+               <p>1650. Mr. <hi>Pierſe Butler,</hi> eldeſt ſon to the Lord of <hi>Galmoy,</hi> and Captain of horſe in his Majeſties Army, being taken priſo<g ref="char:EOLhyphen"/>ner in the fight at <hi>Lampſtowne,</hi> was killed in cold blood, and after quarter by the ſaid <hi>Bolton.</hi>
+               </p>
+               <p>1651. The ſaid <hi>Bolton</hi> hanged <hi>Pierſe Doran,</hi> who collected his contribution, at his own door and one of his ſervants to keep him company.</p>
+               <p>1651. <hi>Nicholas Lenagh</hi> a man known to be frantick, was killed in his own houſe by the ſaid <hi>Boltons</hi> orders.</p>
+               <p>
+                  <hi>Daniel Birne</hi> and <hi>Morogh Redmond</hi> were murthered in their houſes by Cap. <hi>Barrington,</hi> they being in Protection, and Col<g ref="char:EOLhyphen"/>lectors of the contribution.</p>
+               <p>1651. Colonel <hi>Pretty</hi> meeting one day upon the road with Mr. <hi>Phillip Hill</hi> a Gentleman of his acquaintance, and his col<g ref="char:EOLhyphen"/>lector in the <hi>Barrony</hi> of <hi>Ballagh Keen</hi> hanged him on the next Tree.</p>
+               <p>
+                  <pb n="19" facs="tcp:59421:16"/>
+Notwithſtanding all thoſe murthers and maſſacres acted upon the Inhabitants of this county, it is obſervable that by the late Pamphlet and all the papers that have been publiſhed to that ſubject, they could not ſay that one Engliſh man was murthered in that county ſince the Rebellion.</p>
+            </div>
+            <div type="county">
+               <head>County of Typperary.</head>
+               <p>1641. On the 24. of <hi>October</hi> one <hi>Brown</hi> and Cap. <hi>Peaſly</hi> murthered eleven men women and children in their own hou<g ref="char:EOLhyphen"/>ſes at <hi>Goldin Bridge,</hi> before any of the Catholikes took up Arms in that county.</p>
+               <p>About the ſame time the ſaid Captain <hi>Peaſely</hi> going through <hi>Cloneulty, Phillip Ryan</hi> a peaceable Gentleman, and owner of the ſaid Town, came out of his houſe to ſalute the Cap. who pulled out his Piſtol and ſhot the poor harmleſs Gentleman dead at his own door.</p>
+               <p>Note that theſe two murthers occaſioned the riſing of the Gentry and inhabitants of that county.</p>
+               <p>1641. One <hi>Iohn Wiſe</hi> of <hi>Balliowen,</hi> an Engliſh Souldier came ſeveral times in womens attire upon the road, and com<g ref="char:EOLhyphen"/>mitted divers murders upon ſymple countrey people coming from the Market.</p>
+               <p>1649. A Souldier of <hi>Cromwels</hi> being killed by ſome of the Iriſh Army, Col. <hi>Ieremy Sankey</hi> ſummoned all the Inhabitants of the Pariſh wherein he was killed, being under his protecti<g ref="char:EOLhyphen"/>on, to come to <hi>Fethered,</hi> where he put them to the Dice, and hanged five of them.</p>
+               <p>One Lieutenant Mac. <hi>Gragh</hi> of his Majeſties Army, being taken priſoner by Captain <hi>Iohn Godfroy,</hi> was five dayes after hanged in the town of <hi>Fetherd</hi> by Colonel <hi>Sankey</hi> notwith<g ref="char:EOLhyphen"/>ſtanding the ſaid <hi>Godfroys</hi> protection to have given him quarter.</p>
+               <p>1652. Seventeen poor women and children in Protection were murthered at <hi>Tullow</hi> by Major <hi>Elias Green</hi> and his party,
+<pb n="20" facs="tcp:59421:17"/>
+and one of the Troopers refuſing to kill a woman big with child, by name <hi>Eliz. Cugly,</hi> was wounded by the ſaid Major, who thruſt his own Sword through the womans Bowels.</p>
+               <p>Within a while after, thirty women and boyes, ready to ſtarve, &amp; digging of Puttatoes in their own Gardens in the ſaid Village of <hi>Tullo,</hi> were all killed by orders of the ſaid Major <hi>Green.</hi>
+               </p>
+               <p>1649. Captain <hi>Cantuel,</hi> and Captain <hi>Fitz. Gerrald</hi> of his Majeſties Army, were tyed to a tree and ſhot to death by ſome Officers of <hi>Cromwels</hi> Army after quarter given.</p>
+               <p>1651, Colonel <hi>Richard</hi> hanged <hi>Ed. Mockler</hi> a protected perſon, and alſo a woman bigg with child, ſaying he did it leaſt ſhe ſhould be delivered of a Traytor.</p>
+               <p>Major <hi>Bolton,</hi> killed in the high way neer <hi>Thurles,</hi> one <hi>Phil<g ref="char:EOLhyphen"/>lip Purſel</hi> an honeſt Gentleman in Protection.</p>
+               <p>Major <hi>William Moor</hi> murthered upon the highway neer <hi>Thurles</hi> a ſervant of Mr. <hi>Iohn Bryans,</hi> carrying proviſion to the Lady of <hi>Thurles.</hi>
+               </p>
+               <p>1651. <hi>Moriſh Engliſh</hi> a Gentleman in Protection, was dragg'd out of his own houſe by the ſaid Cap. <hi>Iohn Godfroy,</hi> and brought to <hi>Cahirr</hi> where he was hanged next day.</p>
+               <p>1651. Sixteen Souldiers of his Majeſties Army taken Pri<g ref="char:EOLhyphen"/>ſoners by Col. <hi>Abotts</hi> troop neer <hi>Nenagh</hi> were all killed by them after quarter given.</p>
+               <p>1651. One <hi>Moran</hi> a Souldier after quarter promiſed, was by Colonel <hi>Abots</hi> command hanged three houres by the heels from the Battlement of the caſtle of <hi>Nenagh,</hi> and next day hanged by the neck until he dyed.</p>
+               <p>1651. Some of <hi>Abots</hi> troop having brought a Labourer out of Mr. <hi>Grace</hi> of <hi>Clogh Priory</hi> his houſe, to ſhew them the way, cut off his head within a Musket ſhot to the houſe.</p>
+               <p>Two Labourers thraſhing of corne in <hi>Ballinanan</hi> were kil<g ref="char:EOLhyphen"/>led by Cap. <hi>Barker.</hi>
+               </p>
+               <p>In the year 1650. <hi>David Walſh</hi> Eſquire, about eighty years old, was murthered by Major <hi>Morgan,</hi> now Sir <hi>Anthony Mor<g ref="char:EOLhyphen"/>gan,</hi> in the road between <hi>Clonmel</hi> and <hi>Waterford,</hi> and one of
+<pb n="21" facs="tcp:59421:17"/>
+the ſaid <hi>Davids</hi> daughters endeavouring to preſerve her Father, was murthered over him, and a Granchild of the ſaid <hi>Davids,</hi> ſeven years of age, then in the company, was murthered by the ſaid Sir <hi>Anthonies</hi> own hands.</p>
+               <p>The troopers having abſolutely refuſed to kill him, and ſe<g ref="char:EOLhyphen"/>veral others of rhe ſaid <hi>Davids</hi> kindred were murthered for no other cauſe but that his children and relations were active in defending <hi>Clonmel</hi> for his Majeſty againſt <hi>Cromwel,</hi> and for his ſon <hi>Iohn Walſh</hi> Eſquire, his attending on the Lord Lieute<g ref="char:EOLhyphen"/>nant in order to his Majeſties ſervice.</p>
+               <p>No leſs then 500 poor labourers and women were hang'd at <hi>Clonmel,</hi> and other Garriſons in this County, guilty of no other crime but being found within the imaginary lines drawn by the Govenors of the ſeveral Gariſons in the ſaid County.</p>
+               <p>A woman being big with child, having in preſence of all the people the child ſtirring in her womb, was hanged by Colo. <hi>Richards</hi> at <hi>Clomnel.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>County of Clare.</head>
+               <p>1644. 40 families in protection were murthered by the Garriſon of <hi>Inchicronan.</hi>
+               </p>
+               <p>1646. ſeveral reſiding neer <hi>Bunratty</hi> were Murthered by the Souldiers of that Garriſon under Command of Lievetenant Col. <hi>Adams.</hi>
+               </p>
+               <p>1651. Sir <hi>Hardreſs Waller,</hi> and Col. <hi>Ingoldsby</hi> command<g ref="char:EOLhyphen"/>ing two parties into the <hi>Barronneg</hi> of <hi>Bueren</hi> then under pro<g ref="char:EOLhyphen"/>tection killed in one day, upwards of 800 men women and children, and meeting with Squire <hi>Donogh O Bryan</hi> an aged Gentleman, and protected by the ſaid <hi>Waller</hi> they lockt him up in a Country houſe to which they ſet fire and burnt him to death.</p>
+               <p>1651. the ſaid Colonels Troope of Dragoones murthered in the Town of <hi>Quenne</hi> 30 aged and poor perſons.</p>
+               <p>1651. The ſaid <hi>Ingoldsby</hi> after giving quarter to 9 ſouldiers of his Majeſties Army, and a weeks impriſonment hang'd them,</p>
+               <p>
+                  <pb n="22" facs="tcp:59421:18"/>
+1651. The ſaid <hi>Ingoldsby</hi>'s men killed about 1000 poor la<g ref="char:EOLhyphen"/>bourers women and children in the Barroniſts of <hi>Corckromroe</hi> and <hi>Inchiquin</hi> being all under his Protection, Capt. <hi>Puerefoy</hi> and other officers commanded by the ſaid <hi>Ingoldsby,</hi> murther<g ref="char:EOLhyphen"/>ed upward of 100 men women and children in the Barrony's of <hi>Bunratty</hi> and <hi>Tullagh</hi> protected by the ſaid Col.</p>
+               <p>Captaine <hi>Stafe</hi> and Capt <hi>Apers</hi> under the command of the ſaid <hi>Ingoldsby</hi> murthered no leſs then 500 families in pro<g ref="char:EOLhyphen"/>tection in the Barronies of Iſland I <hi>Brackane Cluandarala</hi> and <hi>Moyfarta.</hi>
+               </p>
+               <p>1651. The ſaid <hi>Ingoldsby</hi>'s men when the were ſurfeited of killing, made it an ordinary practiſe to bridle the poor peo<g ref="char:EOLhyphen"/>ple, men and women to tye them to their horſes tailes like beaſts and ſell them to the <hi>Barbadoes.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>County of Limericke.</head>
+               <p>
+                  <hi>Anno</hi> 1651. The ſaid Col. <hi>Ingoldsby</hi> being one day with a party in the teritory of <hi>Cleanliſh,</hi> ſlaughtered upward of 500 men women and Children, all under his protection.</p>
+               <p>1651. The ſaid <hi>Ingoldsby</hi> and his Dragoons murthered in one day about 300 protected perſons in the teritory of <hi>Tullagh hill.</hi>
+               </p>
+            </div>
+            <div type="county">
+               <head>County of Kiery.</head>
+               <p>1653. The Inhabitance of the Barrony of <hi>Dunkueran</hi> being ordred by Lievtenant Col. <hi>Nelſon</hi> then Govenor of the County for <hi>Cromwel,</hi> to remove with their goods and Cattels neer his Garriſons for their greater ſecurity were met by the ſaid <hi>Nel<g ref="char:EOLhyphen"/>ſon</hi> Major <hi>Peppard,</hi> Capt. <hi>Thomas Barrington,</hi> Capt. <hi>Haſſet,</hi> and other Officers, with a party of horſe and under colour to ſe<g ref="char:EOLhyphen"/>cure their removeal, and on a ſudden upon a ſign given, the ſouldiers fell upon the poor people, and killed upwards of 300 men women and children, the cruelty of <hi>Barrington</hi> and <hi>Haſſet</hi> in that maſſacre was remarkable, cauſing many women to be
+<pb n="23" facs="tcp:59421:18"/>
+ſhamefully ſtript naked, and afterwards moſt inhumanly but<g ref="char:EOLhyphen"/>chered, the fingers of ſuch as wore rings to be cut off, and the Babes and Infants to be toſſed on Pikes and Halberts, in ſight of their dying Parents.</p>
+               <p>1653. The ſaid <hi>Nelſon</hi> having granted his protection un<g ref="char:EOLhyphen"/>der hand and Seal to <hi>Tecig Morearty</hi> and <hi>Conor</hi> Mc <hi>Donogh</hi> Ca<g ref="char:EOLhyphen"/>tholick Prieſts, until their tranſportation for <hi>Flanders</hi> by a time limitted; before half that time was expired apprehen<g ref="char:EOLhyphen"/>ded the ſaid Prieſts, and hang'd them with their Protection in their hands.</p>
+               <p>1653. The ſaid <hi>Nelſon</hi> and Captain <hi>Peeter Cary</hi> meeting with one <hi>Thomas O Bryne</hi> a Butcher by trade, hanged him for being ſometime a lay Fryer.</p>
+               <p>Many hundreds of the poor people of that county reduced by the exaction and cruelty of their Governours, to a ſtarving condition, were by <hi>Nelſons</hi> orders for ſmelling of horſefleſh which they were neceſſitated to eat or ſtarve hanged.</p>
+               <p>1653. Captain <hi>Thomas Barrington</hi> aforeſaid, cauſed the arm of a poor woman to be cut off with a hatchet, and percei<g ref="char:EOLhyphen"/>veing that ſhe graſped with the other hand a ſucking babe, ſhe had at her breaſt, he cauſed that arm to be alſo cut off, and the Infants head daſhed againſt a Rock, in her preſence.</p>
+               <p>The ſaid <hi>Barrington</hi> cauſed a Lieutenant and ſome Souldiers of his Majeſties Army, taken priſoners upon quarter, to be ſtript naked, and their braines knocked out with a hatchet.</p>
+            </div>
+            <div type="county">
+               <head>County of Corke.</head>
+               <p>
+                  <hi>Ann.</hi> 1641. In <hi>Condons</hi> countrey above 300 Labourers, women and children, were murthered by ſome of the now Earl of <hi>Ororrys</hi> Souldiers.</p>
+               <p>In the ſaid country amongſt others, they guelded one <hi>Denis Downey<g ref="char:punc">▪</g>
+                  </hi> and puld out one of his eyes, and ſent him in that poſture to his wife.</p>
+               <p>
+                  <hi>Anno</hi> 41. It. fifty ſix perſons or thereabouts, were brought Priſoners to <hi>Caſtle Lyons</hi> (moſt of them Labourers who did
+<pb n="24" facs="tcp:59421:19"/>
+never bear armes) were put into a ſtable, and the women in that Garriſon at night fired their beards and the hair of their heads, which ſo diſfigured them and burnt them, that their neereſt friends could not know them next day when they were a hanging.</p>
+               <p>
+                  <hi>Anno</hi> 42. In the ſame county 355 perſons, men, women and children were murthered with clubbs and ſtones, being in protection.</p>
+               <p>
+                  <hi>Ann.</hi> 42. Mr. <hi>Henly</hi> an Engliſh Gentleman, dwelling in <hi>Roches</hi> countrey, but a Roman Catholick, had his wife and children barbarouſly ſtript, and moſt of his tenants inhumanly murthered by the adjacent Engliſh Garriſons. He the ſaid <hi>Henly</hi> nor his tenants being never in Armes, and ſuch cruelty was uſed, that they ſtab'd young Infants, and left them ſo half dead on their mothers dead carcaſſes, in the ſaid <hi>Henlys<g ref="char:EOLhyphen"/>towne</hi> and in the adjacent villages, at that time there were mur<g ref="char:EOLhyphen"/>thered about nine hundred Labourets, women and children.</p>
+               <p>
+                  <hi>Ann.</hi> 43. <hi>Cloghlegh</hi> being Garriſoned by the Iriſh and ſurrendred upon quarter of life to Sir <hi>Charles Vavaſor</hi> were all inhumanly murthered, and the hearts of ſome of them pul'd out and put into their mouthes, and many other Maſſacres were committed the ſame time there on women and chil<g ref="char:EOLhyphen"/>dred.</p>
+               <p>
+                  <hi>Ann.</hi> 43. At <hi>Liſlee</hi> 24 men in Protection were murthered by Col. <hi>Mynns</hi> Souldiers.</p>
+               <p>At <hi>Beallauere</hi> the ſame year <hi>Teig O Mungan</hi> and <hi>David Broge</hi> blowing by command into Piſtols, were ſhot to death by ſome of Cap. <hi>Bridges</hi> men, and eight poor Labourers more were killed by them being in Protection, and then imployed in ſaving ſome harveſt of Engliſh.</p>
+               <p>
+                  <hi>Anno</hi> 42. At <hi>Clogheiulty</hi> about 238 men, women and chil<g ref="char:EOLhyphen"/>dren were murthered, of which number ſeventeen children werie taken by the legs by Souldiers who knockt out their brains againſt the walls, this was done by <hi>Phorbis</hi> his men, and the Garriſon of <hi>Bandon</hi> bridge.</p>
+               <p>At <hi>Garrane</hi> neer <hi>Roſs, Conor Kinedy,</hi> who had protection for himſelf and his Tennants to ſave their Harveſt, were mur<g ref="char:EOLhyphen"/>thered by the ſaid Garriſon of <hi>Roſs</hi> as they were ditching a<g ref="char:EOLhyphen"/>bout their <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+               <p>
+                  <pb n="25" facs="tcp:59421:19"/>
+                  <hi>Anno</hi> 41. At <hi>Bandon</hi> bridge, the Garriſon there tyed 88 Iriſh<g ref="char:EOLhyphen"/>men of the ſaid Town back to back and threw them off the bridge into the River, where they were all drowned.</p>
+               <p>
+                  <hi>Anno</hi> 50. At <hi>Shiel</hi> there were 40 laboures with women and children put on the edge of a great cliff over the Sea, a Rope being drawn about them with ſix Souldiers on each and and ſo thrown into the Sea, and drowned, this was done by Major <hi>Wallis</hi> and his party, who about the ſame time murthered in the weſt of <hi>Carbery</hi> upwards of 800 men, women and chil<g ref="char:EOLhyphen"/>dren.</p>
+               <p>
+                  <hi>Anno</hi> 41. <hi>Patrick Hackett</hi> Maſter of a Ship in <hi>Waterford,</hi> the Dutches of <hi>Ormond</hi> being deſireous to be conveyed by him to <hi>Dublin</hi> after leaving her ſafe with her family and goods there, the Lord Juſtices and the Duke of <hi>Ormond</hi> gave him a paſs for his ſafe returne who being driven by a ſtorme into <hi>Dungarvan,</hi> the ſaid Maſter and all his men were hanged by direction of the Commander in cheife there, notwithſtanding he produ<g ref="char:EOLhyphen"/>ced his ſaid paſs.</p>
+               <p>
+                  <hi>Anno</hi> 47. Sir <hi>Allexander Mc Donnel</hi> a known eminent ſer<g ref="char:EOLhyphen"/>viture to his late Majeſtie in the wars of <hi>Scotland</hi> was mur<g ref="char:EOLhyphen"/>thered by Major <hi>Purdome</hi> after quarter.</p>
+               <p>
+                  <hi>Anno</hi> 51. <hi>Charles Mc Carty</hi> of <hi>Killmydy</hi> being in a party with Coll. <hi>Phayre</hi> at the Grate of his Caſtle, Col. <hi>Ingoldsby</hi> rides up to the Grate with a ſpan'd Piſtol and ſhot him dead, at which action the ſaid <hi>Phayre</hi> was much diſſatisfied, being Com<g ref="char:EOLhyphen"/>mander in cheif of that party.</p>
+               <p>
+                  <hi>Anno</hi> 41. The Engliſh party of this County <hi>Burnt, O Sulevan Beare</hi> his houſe in <hi>Bantry,</hi> and all the reſt of that Coun<g ref="char:EOLhyphen"/>try, killed man, woman and child, turning many into their houſes then on fire to be burnt therein, and amongſt others, <hi>Thomas de Bucke</hi> a Cooper about 80 years old, and his wife being little leſs, and all this was done without provocation, the ſaid <hi>O Sulevan</hi> being a known reliever of the Engliſh in that Country, obſerve that this County is not charged in the late Abſtract with any Murthers.</p>
+            </div>
+            <div type="county">
+               <pb n="26" facs="tcp:59421:20"/>
+               <head>County of Waterford.</head>
+               <p>
+                  <hi>Anno</hi> 41. In <hi>Decy's</hi> Country the neighbouring Engliſh Ga<g ref="char:EOLhyphen"/>riſons of the County of <hi>Corke</hi> after burning and pilladging all that Country, they Murthered above 3000 perſons, men women and Children, before any Rebellion began in <hi>Munſter,</hi> and led a hundred labourers priſoners to <hi>Caperquine,</hi> where being tyed by couples were caſt into the River, &amp; made ſport to ſee them drowned; obſerve that this County is not charged with any murthers to be committed on Proteſtants.</p>
+            </div>
+         </div>
+         <div type="conclusion">
+            <pb n="27" facs="tcp:59421:20"/>
+            <p>ANd to conclude, how can any indifferent man be<g ref="char:EOLhyphen"/>leive that late Abſtract of of murthers ſaid to be commited by the Iriſh to be true, when it concludeth with a paſſage ſo well known to be otherwiſe, as to charge the Roman Catholique Members of the Par<g ref="char:EOLhyphen"/>liament held in <hi>Ireland</hi> in the year 1641 with ob<g ref="char:EOLhyphen"/>ſtructing the tranſportation of the disbanded ſouldiers of <hi>Straffords</hi> Army for the King of <hi>Spains</hi> ſervice, purpoſely to advance the ſaid Rebellion. Whereas it is moſt certain that ſtop was put on them by or<g ref="char:EOLhyphen"/>ders ſent out of <hi>England;</hi> and it is obſervable the ſaid late Abſtract and other Pamphlets ſay, that ſo many hundred thouſand Proteſtants were mur<g ref="char:EOLhyphen"/>thered in <hi>Ireland</hi> in the year 1541. which can never be made to appear, nor that 4000 were murthered there of Proteſtants all the War time. And it is no ſmall inducement for any impartial man to give cre<g ref="char:EOLhyphen"/>dit to this allegation, when thoſe who act for the Iriſh here have alwaies and do ſtill make it their re<g ref="char:EOLhyphen"/>queſt that the murtherers of both ſides be left to the due puniſhment of the Law. The ſcope and intent of the publiſhers of thoſe pamphlets by fayning of ſo many cruel &amp; inhumane murthers upon that Nation being no other then to render them odious to their natural Prince and fellow Subjects of <hi>Enland,</hi> where<g ref="char:EOLhyphen"/>by many have the eaſier acceſs unto their eſtates.</p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Faults eſcaped by the Printer.</head>
+            <p>Pag. 4. line 13. r. Flower, p. 5. l. 6. r. ruminated, l. 18. r. derived, p. 8. l. 18. r. Athloane, l. 23. r. formerly.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
